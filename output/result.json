@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "input_documents": [
+      "paper-1.pdf",
+      "paper-2.pdf",
+      "paper-3.pdf",
+      "paper-4.pdf",
+      "paper-5.pdf"
+    ],
+    "persona": "PhD Researcher in Computational Biology",
+    "job_to_be_done": "Prepare a comprehensive literature review focusing on methodologies, datasets, and performance benchmarks for Graph Neural Networks used in drug discovery",
+    "processing_timestamp": "2025-07-28T12:47:39.599444Z"
+  },
+  "extracted_sections": [
+    {
+      "document": "paper-2.pdf",
+      "page": 1,
+      "section_title": "Convolutional and Transformer Neural Networks",
+      "importance_rank": 1
+    },
+    {
+      "document": "paper-2.pdf",
+      "page": 1,
+      "section_title": "Convolutional and Transformer Neural Networks",
+      "importance_rank": 2
+    },
+    {
+      "document": "paper-3.pdf",
+      "page": 1,
+      "section_title": "wavelet decomposition and CNN",
+      "importance_rank": 3
+    },
+    {
+      "document": "paper-5.pdf",
+      "page": 1,
+      "section_title": "A Survey on Deep Learning-Based Lane Detection",
+      "importance_rank": 4
+    },
+    {
+      "document": "paper-1.pdf",
+      "page": 10,
+      "section_title": "Character Recognition",
+      "importance_rank": 5
+    }
+  ],
+  "sub_section_analysis": [
+    {
+      "document": "paper-1.pdf",
+      "refined_text": "Kothai G  et al. / Procedia Computer Science 235 (2024) 2822\u20132832  2831 10   Kothai G / Procedia Computer Science 00 (2019) 000\u2013000                                 Fig.12. Performance Analysis of Character Recognition     Figure 12 flaunts the performance analysis for character recognition. The existing R-CNN model has 92.65%  precision value, Deep Q- Networks has 80.32% precision value, CNNs, RNNs has 90.63%, 84.27% precision value.  The LSTM, GRU and DNNs has 86.38%, 85.25%, 86.46% of precisio",
+      "page": 10
+    },
+    {
+      "document": "paper-1.pdf",
+      "refined_text": "2830   Kothai G  et al. / Procedia Computer Science 235 (2024) 2822\u20132832   Kothai G / Procedia Computer Science 00 (2019) 000\u2013000    9       Fig.11. Performance Analysis of Letter Detection    Figure 11 flaunts the performance analysis for letter detection. The existing R-CNN model has 92.83% precision  value, Deep Q- Networks has 80.65% precision value, CNNs, RNNs has 90.62%, 84.68% precision value. The LSTM,  GRU and DNNs has 86.38%, 85.74%, 86.75% of precision. The propounded YOLO framework h",
+      "page": 9
+    },
+    {
+      "document": "paper-1.pdf",
+      "refined_text": "ScienceDirect Available online at  www.sciencedirect.com Procedia Computer Science 235 (2024) 2822\u20132832 1877-0509  \u00a9 2024 The Authors. Published by ELSEVIER B.V. This is an open access article under the CC BY-NC-ND license ( https://creativecommons.org/licenses/by-nc-nd/4.0 ) Peer-review under responsibility of the scientific committee of the International Conference on Machine Learning and  Data Engineering 10.1016/j.procs.2024.04.267 International Conference on Machine Learning and Data Engine",
+      "page": 1
+    },
+    {
+      "document": "paper-3.pdf",
+      "refined_text": "Convolutional neural network (CNN) is a special architecture of arti \ufb01 cial neural networks and the best performing model to classify im- ages. It is divided into two main parts, Convolutional layers and fully connected layers. The convolutional layer is the building block of CNN, it is responsible for features extraction from images by applying convolu- tion  \ufb01 ltering operations. However, the fully connected layers are responsible for the prediction part. With one or more fully connected layer",
+      "page": 4
+    },
+    {
+      "document": "paper-1.pdf",
+      "refined_text": "Kothai G  et al. / Procedia Computer Science 235 (2024) 2822\u20132832  2829 8   Kothai G / Procedia Computer Science 00 (2019) 000\u2013000     The propounded YOLO detection model in account is subjected to a comprehensive analysis, focusing on  distinct measures of performance. The outcomes of the propounded deep learning algorithm are computed,  and parameters such as accuracy, precision, and recall are evaluated within the training datasets to assess their  applicability and estimate their significanc",
+      "page": 8
+    }
+  ]
+}
